@@ -8,7 +8,8 @@
 <br>
 👨🏾‍💻Consultant &amp; Formateur  
 <br>
-🏗️ Créateur de contenu Tech  
+🏗️ Créateur de contenu Tech
+ <hr>
 </p>
 <p align="center">
   <img src="https://media2.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif" alt="DS" width="800px">
