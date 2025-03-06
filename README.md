@@ -67,6 +67,7 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/10/dbt-labs-logo-freelogovectors.net_-400x145.png" alt="dbt" style="width:300px; height:100px""></td>
 <td><img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="terraform" style="width:300px; height:100px""></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/512px-Looker.svg.png?20210222181719" alt="Looker" style="width:300px; height:100px""></td></tr></table><br>
+  <hr>
 <h2 id="📈-mes-stat-github-🧐" align="center">📈 Mes Stat Github 🧐</h2>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hurgland-Nick&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
@@ -75,14 +76,11 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hurgland-Nick&theme=tokyonight&hide_border=true;">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hurgland-Nick&show_icons=true&theme=tokyonight&include_all_commits=true">
-</p>
-<br>
-<h2 id="🐍-contribution-snake" align="center">🐍 Contribution Snake</h2>+<p align="center">
- ![snake gif](https://github.com/Hurgland-Nick/Hurgland-Nick/blob/output/github-contribution-grid-snake.svg)
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hurgland-Nick&show_icons=true&theme=tokyonight&include_all_commits=true"><br><br>
+  
 <h2 id="📬-lets-connect" align="center">📬 Let’s Connect!</h2>
-<p align="center">
+
+  <p align="center">
   <a href="https://linkedin.com/in/hurgland">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin">
   </a>
@@ -97,8 +95,6 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
   </a>
 </p>
 <h2 id="🎯-accroche" align="center">🎯💡</h2>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-<img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=13&duration=3500&pause=600&color=7978739C&background=FFE33F00&center=true&vCenter=true&width=536&lines=always+clutch+,+always+on+point+with+data+...+Time+to+give+it+real+meaning;" alt= "typing-svg">
-  </a>
-</div>
+<p align="center"><a href="https://git.io/typing-svg">
+<img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=13&duration=3500&pause=600&color=7978739C&background=FFE33F00&center=true&vCenter=true&width=536&lines=always+clutch+,+always+on+point+with+data+...+Time+to+give+it+real+meaning;" alt= "typing-svg"></a>
+</p>
