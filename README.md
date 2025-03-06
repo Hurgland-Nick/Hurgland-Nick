@@ -1,4 +1,4 @@
- <div class="stackedit__html"><h1 align="center">Hi there, I'm Hurgland-Nick 👋</h1>
+ <div class="stackedit__html"><h1 align="center">Hi there, I'm Hurgland-Nick aka Cephee HK👋</h1>
 <p align="center">
   <img src="https://media2.giphy.com/media/fv8KclrYGp5dK/giphy.gif?cid=6c09b952p7hf9stericqug9ouz47qx74ms00y8s97ou6zref&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif" alt="Geek Enquêteur" width="800px">
 </p>
@@ -60,7 +60,7 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="GCP" style="width:300px; height:100px"></td>
 <td><img src="https://cdn.brandfetch.io/idSUrLOWbH/idOSUN2QlG.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="databricks" style="width:300px; height:100px""></td> <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" style="width:300px; height:100px""></td></tr>
 <tr> <td>
-<img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" alt="Apache Kafka" style="width:300px; height:100px"></td>
+<img src="https://www.striim.com/wp-content/themes/striim2022/images/connectors_icons/white/kafka.png" alt="Apache Kafka!" style="width:300px; height:100px"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" style="width:300px; height:100px"></td> <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" style="width:300px; height:100px""></td></tr>
 <tr> <td>
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/10/dbt-labs-logo-freelogovectors.net_-400x145.png" alt="dbt" style="width:300px; height:100px""></td>
