@@ -57,15 +57,15 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 <!-- In process -->
 <h1 align="center">『🚀 CURRENTLY COOKING IN LAB 👨‍💻 』 </h1>
 <table border="3" cellpadding="10" cellspacing="10"> <tr><td>
-<img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="GCP" style="width:55px; height:55px"></td>
-<td><img src="https://cdn.brandfetch.io/idSUrLOWbH/idOSUN2QlG.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="databricks" style="width:55px; height:55px;"></td> <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" style="width:55px; height:55px;"></td></tr>
+<img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="GCP" style="width:300px; height:100px"></td>
+<td><img src="https://cdn.brandfetch.io/idSUrLOWbH/idOSUN2QlG.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="databricks" style="width:300px; height:100px""></td> <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" style="width:300px; height:100px""></td></tr>
 <tr> <td>
-<img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" alt="Apache Kafka" style="width:70px; height:50px"></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" style="width:55px; height:55px;"></td> <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" style="width:55px; height:55px;"></td></tr>
+<img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" alt="Apache Kafka" style="width:300px; height:100px"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" style="width:300px; height:100px"></td> <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" style="width:300px; height:100px""></td></tr>
 <tr> <td>
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/10/dbt-labs-logo-freelogovectors.net_-400x145.png" alt="dbt" style="width:60px; height:60px;"></td>
-<td><img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="terraform" style="width:55px; height:55px;"></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/512px-Looker.svg.png?20210222181719" alt="Looker" style="width:20px; height:20px"></td></tr></table>
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/10/dbt-labs-logo-freelogovectors.net_-400x145.png" alt="dbt" style="width:300px; height:100px""></td>
+<td><img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="terraform" style="width:300px; height:100px""></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/512px-Looker.svg.png?20210222181719" alt="Looker" style="width:300px; height:100px""></td></tr></table>
 <h2 id="📈-mes-stat-github-🧐" align="center">📈 Mes Stat Github 🧐</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hurgland-Nick&amp;show_icons=true&amp;theme=tokyonight">
@@ -98,6 +98,6 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 <h2 id="🎯-accroche" align="center">🎯 	</h2>
 <p><em>“Les données racontent une histoire. Mon job ? Faire en sorte qu’elle soit compréhensible, utile et impactante.”</em></p>
 <p>💡 <strong>PS</strong> : Ce README est conçu pour évoluer, alors stay tuned pour les updates 🚀 !</p>
-<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=always+Clutch+always+up+to;Second+line+of+text" alt="Typing SVG"></a><br>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=always+Clutch+,+always+up+to;" alt="Typing SVG"></a><br>
 
 
