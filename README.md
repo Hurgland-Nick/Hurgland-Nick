@@ -11,7 +11,7 @@
 🏗️ Créateur de contenu Tech  
 </p>
 <p align="center">
-  <img src="https://media2.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif?" alt="Geek Enquêteur" width="800px">
+  <img src="https://media2.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif" alt="DS" width="800px">
 </p>
 <!-- GIF Sherlock au premier plan -->
 <h2 id="🚀🌍-welcome-to-my-dev-data--ai-universe-🙏🏽" align ="center">🚀🌍 Welcome to My Dev, Data &amp; AI Universe! 🙏🏽</h2>
