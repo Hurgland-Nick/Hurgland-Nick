@@ -67,9 +67,15 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 <td><img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="terraform" style="width:300px; height:100px""></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/512px-Looker.svg.png?20210222181719" alt="Looker" style="width:300px; height:100px""></td></tr></table>
 <h2 id="📈-mes-stat-github-🧐" align="center">📈 Mes Stat Github 🧐</h2>
-![](https://github-readme-stats.vercel.app/api?username=Hurgland-Nick&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hurgland-Nick&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hurgland-Nick&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hurgland-Nick&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</p>
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hurgland-Nick&theme=tokyonight&hide_border=true;">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hurgland-Nick&show_icons=true&theme=tokyonight&include_all_commits=true">
+</p>
 <hr>
 <h2 id="🐍-contribution-snake" align="center">🐍 Contribution Snake</h2>+<p align="center">
  ![snake gif](https://github.com/Hurgland-Nick/Hurgland-Nick/blob/output/github-contribution-grid-snake.svg)
@@ -79,14 +85,14 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
   <a href="https://linkedin.com/in/hurgland-nick">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin">
   </a>
-  <a href="https://twitter.com/hurgland-nick">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&amp;logo=twitter">
-  </a>
   <a href="https://youtube.com/hurgland-nick">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&amp;logo=youtube">
   </a>
   <a href="https://hurgland-nick.dev">
     <img src="https://img.shields.io/badge/Website-grey?style=for-the-badge&amp;logo=google-chrome">
+    <a href="https://twitter.com/hurgland-nick">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&amp;logo=twitter">
+  </a>
   </a>
 </p>
 <h2 id="🎯-accroche" align="center">🎯 	</h2>
