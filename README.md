@@ -1,4 +1,4 @@
-﻿<div class="stackedit__html"><h1 align="center">Hi there, I'm Hurgland-Nick KELIET [Cephee HK]👋</h1>
+<div class="stackedit__html"><h1 align="center">Hi there, I'm Hurgland-Nick KELIET [Cephee HK]👋</h1>
 <p align="center">
   <img src="https://media2.giphy.com/media/fv8KclrYGp5dK/giphy.gif?cid=6c09b952p7hf9stericqug9ouz47qx74ms00y8s97ou6zref&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif" alt="Geek Enquêteur" width="800px">
 </p>
