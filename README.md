@@ -1,4 +1,4 @@
- <div class="stackedit__html"><h1 align="center">Hi there, I'm Hurgland-Nick KELIET [Cephee HK]👋</h1>
+<div class="stackedit__html"><h1 align="center">Hi there, I'm Hurgland-Nick KELIET [Cephee HK]👋</h1>
 <p align="center">
   <img src="https://media2.giphy.com/media/fv8KclrYGp5dK/giphy.gif?cid=6c09b952p7hf9stericqug9ouz47qx74ms00y8s97ou6zref&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif" alt="Geek Enquêteur" width="800px">
 </p>
@@ -67,11 +67,9 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 <td><img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="terraform" style="width:300px; height:100px""></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/512px-Looker.svg.png?20210222181719" alt="Looker" style="width:300px; height:100px""></td></tr></table>
 <h2 id="📈-mes-stat-github-🧐" align="center">📈 Mes Stat Github 🧐</h2>
-<p align="center">
-![](https://github-readme-stats.vercel.app/api?username=Hurgland-Nick&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Hurgland-Nick&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hurgland-Nick&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hurgland-Nick&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- </p>
 <hr>
 <h2 id="🐍-contribution-snake" align="center">🐍 Contribution Snake</h2>+<p align="center">
  ![snake gif](https://github.com/Hurgland-Nick/Hurgland-Nick/blob/output/github-contribution-grid-snake.svg)
