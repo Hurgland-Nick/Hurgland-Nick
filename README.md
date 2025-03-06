@@ -12,7 +12,7 @@
  <hr>
 </p>
 <p align="center">
-  <img src="[https://media2.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif](https://media2.giphy.com/media/fv8KclrYGp5dK/giphy.gif?cid=6c09b952p7hf9stericqug9ouz47qx74ms00y8s97ou6zref&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif)" alt="DS" width="800px">
+  <img src="[https://media2.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif](https://media2.giphy.com/media/fv8KclrYGp5dK/giphy.gif?cid=6c09b952p7hf9stericqug9ouz47qx74ms00y8s97ou6zref&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif" alt="DS" width="800px">
 </p>
 <!-- GIF Sherlock au premier plan -->
 <h2 id="🚀🌍-welcome-to-my-dev-data--ai-universe-🙏🏽" align ="center">🚀🌍 Welcome to My Dev, Data &amp; AI Universe! 🙏🏽</h2>
