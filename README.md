@@ -10,10 +10,9 @@
 <br>
 🏗️ Créateur de contenu Tech  
 </p>
-<div align="center">
-  <!-- Image de pluie en fond -->
-  <img src="https://media2.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif?cid=6c09b952fllteypdqlxycqa5dogqvzovc58f7qx6heta8jfa&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif&amp;ct=g" alt="Rain Background">
-</div> 
+<p align="center">
+  <img src="https://media2.giphy.com/media/fv8KclrYGp5dK/giphy.gif?cid=6c09b952p7hf9stericqug9ouz47qx74ms00y8s97ou6zref&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif" alt="Geek Enquêteur" width="800px">
+</p>
 <!-- GIF Sherlock au premier plan -->
 <h2 id="🚀🌍-welcome-to-my-dev-data--ai-universe-🙏🏽" align ="center">🚀🌍 Welcome to My Dev, Data &amp; AI Universe! 🙏🏽</h2>
 <p>Ici, vous trouverez le fruit de mes expérimentations et explorations en ingénierie data et intelligence artificielle. Je suis <strong>Tech Lead Data Engineer &amp; Scientist</strong>, passionné par la conception de <strong>systèmes performants et scalables</strong>, en alliant <strong>pragmatisme et innovation</strong>.</p>
