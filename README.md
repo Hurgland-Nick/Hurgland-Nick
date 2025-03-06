@@ -12,7 +12,7 @@
  <hr>
 </p>
 <p align="center">
-  <img src="[https://media2.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif](https://motionbgs.com/media/2050/zenitsu-swordsmanship_312.webp)" alt="DS" width="800px">
+  <img src="https://media2.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif](https://motionbgs.com/media/2050/zenitsu-swordsmanship_312.webp)" alt="DS" width="800px">
 </p>
 <!-- GIF Sherlock au premier plan -->
 <h2 id="🚀🌍-welcome-to-my-dev-data--ai-universe-🙏🏽" align ="center">🚀🌍 Welcome to My Dev, Data &amp; AI Universe! 🙏🏽</h2>
