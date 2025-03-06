@@ -79,6 +79,7 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 <hr>
 <h2 id="🐍-contribution-snake" align="center">🐍 Contribution Snake</h2>+<p align="center">
 <img src="https://github.com/Hurgland-Nick/Hurgland-Nick/blob/output/github-contribution-grid-snake.svg">
+ ![snake gif](https://github.com/Hurgland-Nick/Hurgland-Nick/blob/output/github-contribution-grid-snake.svg)
 </p>
 <h2 id="📬-lets-connect" align="center">📬 Let’s Connect!</h2>
 <p align="center">
