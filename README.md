@@ -79,7 +79,7 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 <tr> <td>
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/10/dbt-labs-logo-freelogovectors.net_-400x145.png" alt="dbt" style="width:300px; height:100px""></td>
 <td><img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="terraform" style="width:300px; height:100px""></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/512px-Looker.svg.png?20210222181719" alt="Looker" style="width:300px; height:100px""></td></tr></table><br>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/512px-Looker.svg.png?20210222181719" alt="Looker" style="width:300px; height:100px""></td></tr></table>
 <hr>
 
 <!--------------------->
@@ -88,7 +88,7 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 
 <h2 id="📈-mes-stat-github-🧐" align="center">📈 Mes Stat Github 🧐</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hurgland-Nick&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></p>
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hurgland-Nick&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></p>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hurgland-Nick&theme=tokyonight"></p>
 <p align="center">
@@ -113,6 +113,7 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
   </a>
   </a>
 </p>
+
 <h2 id="🎯-accroche" align="center">🎯💡</h2>
 <p align="center"><a href="https://git.io/typing-svg">
 <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=13&duration=3500&pause=600&color=7978739C&background=FFE33F00&center=true&vCenter=true&width=536&lines=always+clutch+,+always+on+point+with+data+...+Time+to+give+it+real+meaning;" alt= "typing-svg"></a>
