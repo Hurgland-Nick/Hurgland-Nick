@@ -22,7 +22,7 @@
 <h2 id="🚀🌍-welcome-to-my-dev-data--ai-universe-🙏🏽" align ="center">👋Welcome to My Dev, Data &amp; AI Universe!🚀🌍</h2>
 <p>Ici, vous trouverez le fruit de mes expérimentations et explorations en ingénierie data et intelligence artificielle. Je suis <strong>Tech Lead Data Engineer &amp; Scientist</strong>, passionné par la conception de <strong>systèmes performants et scalables</strong>, en alliant <strong>pragmatisme et innovation</strong>.</p><br>
 <h2 id="🛠-what’s-inside" align ="center">💡What’s Inside?🛠</h2>
-<p align ="center">✨ <strong>Mes domaines de prédilection</strong> :</p>
+<p align ="center">✨<strong>Mes domaines de prédilection</strong> :</p>
 <p>📡 <strong>Ingestion &amp; Streaming :</strong>  Kafka, Kinesis, Airflow, Spark Streaming.<br>
 🔧 <strong>Transformation &amp; Traitement</strong> – Python (Pandas, PySpark), SQL, dbt, ETL/ELT.<br>
 🚀 <strong>CI/CD &amp; DevOps :</strong> – GitHub Actions, Terraform, Docker, Kubernetes pour automatiser les workflows de A à Z.<br>
