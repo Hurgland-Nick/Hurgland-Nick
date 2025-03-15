@@ -7,10 +7,6 @@
 -🧪Passionné par la Data et l'IA
 -👨🏾‍💻Consultant &amp; Formateur
 -🏗️Créateur de contenu Tech
-<br>
-👨🏾‍💻Consultant &amp; Formateur  
-<br>
-🏗️Créateur de contenu Tech
  <hr>
 </p>
 <p align="center">
