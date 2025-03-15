@@ -3,7 +3,7 @@
   <img src="https://media2.giphy.com/media/fv8KclrYGp5dK/giphy.gif?cid=6c09b952p7hf9stericqug9ouz47qx74ms00y8s97ou6zref&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif" alt="Geek Enquêteur" width="800px">
 </p>
 <hr>
-<p align="center">
+<p>
 -🧪Passionné par la Data et l'IA
 -👨🏾‍💻Consultant &amp; Formateur
 -🏗️Créateur de contenu Tech
