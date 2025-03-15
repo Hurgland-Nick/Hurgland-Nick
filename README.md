@@ -1,4 +1,4 @@
-<div class="stackedit__html"><h1 align="center">⚡Hi there, I'm Hurgland-Nick KELIET [Cephee HK]</h1>
+<div class="stackedit__html"><h1 align="center">⚡Hi there, I'm Hurgland-Nick KELIET [Cephee HK] 👨‍💻</h1>
 <p align="center">
   <img src="https://media2.giphy.com/media/fv8KclrYGp5dK/giphy.gif?cid=6c09b952p7hf9stericqug9ouz47qx74ms00y8s97ou6zref&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif" alt="Geek Enquêteur" width="800px">
 </p>
@@ -44,7 +44,7 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 <!--- My Tech Stack --->
 <!--------------------->
 
-<h2 id="-my-tech-stack" align ="center">🧬My Tech Stack📡</h2>
+<h2 id="-my-tech-stack" align ="center">💊My Tech Stack🧬</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -73,7 +73,7 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 <!-- CURRENTLY COOKING IN LAB 👨‍💻 -->
 <!---------------------------------->
 
-<h1 align="center">『🌱CURRENTLY COOKING IN LAB 👨‍💻🚀 』 </h1>
+<h1 align="center">『🌱CURRENTLY COOKING IN LAB📡🚀』 </h1>
 <table border="3" cellpadding="10" cellspacing="10"> <tr><td>
 <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="GCP" style="width:300px; height:100px"></td>
 <td><img src="https://cdn.brandfetch.io/idSUrLOWbH/idOSUN2QlG.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="databricks" style="width:300px; height:100px""></td> <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" style="width:300px; height:100px""></td></tr>
@@ -90,7 +90,7 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 <!-- Mes Stat Github -->
 <!---------------------> 
 
-<h2 id="📈-mes-stat-github-🧐" align="center">📈💊Mes Stat Github </h2>
+<h2 id="📈-mes-stat-github-🧐" align="center">📈Mes Stat Github </h2>
 <p align="center">
 <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hurgland-Nick&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></p>
 <p align="center">
