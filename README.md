@@ -100,7 +100,7 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 
 <h2 id="📬-lets-connect" align="center">📬 Let’s Connect!</h2>
   <p align="center">
-  <a href="https://linkedin.com/in/hurgland">
+  <a href="www.linkedin.com/in/hurglandnick">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin">
   </a>
   <a href="https://youtube.com/hurgland-nick">
