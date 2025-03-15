@@ -19,7 +19,7 @@
 <!-- Welcome to My Dev, Data AI U -->
 <!---------------------------------->
 
-<h2 id="🚀🌍-welcome-to-my-dev-data--ai-universe-🙏🏽" align ="center">🚀🌍 Welcome to My Dev, Data &amp; AI Universe! 🙏🏽</h2>
+<h2 id="🚀🌍-welcome-to-my-dev-data--ai-universe-🙏🏽" align ="center">👋Welcome to My Dev, Data &amp; AI Universe!🚀🌍</h2>
 <p>Ici, vous trouverez le fruit de mes expérimentations et explorations en ingénierie data et intelligence artificielle. Je suis <strong>Tech Lead Data Engineer &amp; Scientist</strong>, passionné par la conception de <strong>systèmes performants et scalables</strong>, en alliant <strong>pragmatisme et innovation</strong>.</p><br>
 <h2 id="🛠-what’s-inside" align ="center">💡What’s Inside?🛠</h2>
 <p align ="center">✨ <strong>Mes domaines de prédilection</strong> :</p>
