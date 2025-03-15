@@ -4,9 +4,9 @@
 </p>
 <hr>
 <p align="center">
-🧪Passionné par la Data et l'IA
-👨🏾‍💻Consultant &amp; Formateur
-🏗️Créateur de contenu Tech
+-🧪Passionné par la Data et l'IA
+-👨🏾‍💻Consultant &amp; Formateur
+-🏗️Créateur de contenu Tech
 <br>
 👨🏾‍💻Consultant &amp; Formateur  
 <br>
