@@ -90,7 +90,7 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 <p align="center">
 <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hurgland-Nick&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hurgland-Nick&theme=tokyonight;"></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hurgland-Nick"></p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hurgland-Nick&show_icons=true&theme=tokyonight&include_all_commits=true"><br><br>
 
