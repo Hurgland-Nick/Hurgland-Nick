@@ -69,7 +69,7 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 <!-- CURRENTLY COOKING IN LAB 👨‍💻 -->
 <!---------------------------------->
 
-<h1 align="center">『🚀 CURRENTLY COOKING IN LAB 👨‍💻 』 </h1>
+<h1 align="center">『🌱CURRENTLY COOKING IN LAB 👨‍💻 』 </h1>
 <table border="3" cellpadding="10" cellspacing="10"> <tr><td>
 <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="GCP" style="width:300px; height:100px"></td>
 <td><img src="https://cdn.brandfetch.io/idSUrLOWbH/idOSUN2QlG.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="databricks" style="width:300px; height:100px""></td> <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" style="width:300px; height:100px""></td></tr>
