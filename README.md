@@ -4,11 +4,11 @@
 </p>
 <hr>
 <p align="center">
--🧪 Passionné par la Data et l'IA
+🧪 -Passionné par la Data et l'IA
 <br>
--👨🏾‍💻Consultant &amp; Formateur  
+👨🏾‍💻-Consultant &amp; Formateur  
 <br>
--🏗️ Créateur de contenu Tech
+🏗️ -Créateur de contenu Tech
  <hr>
 </p>
 <p align="center">
