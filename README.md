@@ -30,7 +30,7 @@
 🧠 <strong>Machine Learning &amp; IA :</strong> TensorFlow, PyTorch.<br>
 ☁️ <strong>Cloud &amp; Services</strong> AWS, Azure et solutions hybrides.</p>
 <br>
-<p align ="center">💡 <strong>Pourquoi partager tout ça ?</strong>
+<p align ="center">🎯<strong>Pourquoi partager tout ça ?</strong>
 <br>
 <br>
 Parce que la data, c’est encore plus intéressant quand on <strong>échange et apprend ensemble</strong> ! Que vous soyez <strong>data engineer, passionné de ML ou fan de DevOps</strong>, j’espère que ces ressources vous seront utiles.</p><br>
