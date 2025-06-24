@@ -116,6 +116,8 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
     <a href="https://twitter.com/hurgland">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&amp;logo=twitter">
   </a>
+
+<img src="https://camo.githubusercontent.com/a5441a2eaeec2c3899cd763b9c5fe5b0db382e06dd575b36e7609c5bf66bafcf/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d636f6473616c6168266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Hurgland-Nick KELIET" data-canonical-src="https://komarev.com/ghpvc/?username=Hurgland-Nick&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
   </a>
 </p>
 
