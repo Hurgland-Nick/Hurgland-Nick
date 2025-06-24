@@ -92,7 +92,7 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
 
 <h2 id="📈-mes-stat-github-🧐" align="center">📈Mes Stat Github </h2>
 <p align="center">
-<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hurgland-Nick&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></p>
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hurgland-Nick&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&locale=en&layout=compact"></p>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hurgland-Nick&theme=dark&hide_border=true&border_radius=10">
 <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=Hurgland-Nick"--></p>
