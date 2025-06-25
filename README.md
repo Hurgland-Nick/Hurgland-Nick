@@ -121,19 +121,19 @@ Parce que la data, c’est encore plus intéressant quand on <strong>échange et
   </a>
 
 
-<h2 id="🎯-accroche" align="center">🎯💡</h2>
-<p align="center"><a href="https://git.io/typing-svg">
-<img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=13&duration=3500&pause=600&color=7978739C&background=FFE33F00&center=true&vCenter=true&width=536&lines=always+clutch+,+always+on+point+with+data+...+Time+to+give+it+real+meaning;" alt= "typing-svg"></a>
 </p>
 
 <!------------------->
 <!---- Signature ---->
 <!------------------->
 <p dir="auto" align="center">© 2025 Hurgland-Nick KELIET</p>
-
-
 <!------------------->
 <!-- Nombre de vue -->
 <!------------------->
-<P  align="center"><img src="https://camo.githubusercontent.com/a5441a2eaeec2c3899cd763b9c5fe5b0db382e06dd575b36e7609c5bf66bafcf/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d636f6473616c6168266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Hurgland-Nick KELIET" data-canonical-src="https://komarev.com/ghpvc/?username=Hurgland-Nick&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=13&duration=3500&pause=600&color=7978739C&background=FFE33F00&center=true&vCenter=true&width=536&lines=always+clutch+,+always+on+point+with+data+...+Time+to+give+it+real+meaning;" alt= "typing-svg"></a>
+</p>
+
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hurgland-Nick&color=blueviolet&style=plastic" alt="Profile views" />
 </p>
